@@ -1,4 +1,4 @@
-#HuffMaster: Lossless Text Compression with Huffman Encoding
+# HuffMaster: Lossless Text Compression with Huffman Encoding
 **Date Completed:** March 25, 2025  
 **Course:** CS3  
 
